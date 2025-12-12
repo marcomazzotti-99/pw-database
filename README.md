@@ -3,7 +3,7 @@ Oltre al file che contiene il database sono stati caricati anche gli script util
 
 <b>trenitalia_db.sql </b>- *file di dump completo del database, pronto per l'importazione diretta in MySQL;*  
 ERD.png - *rappresentazione grafica del Diagramma Entità-Relazione definitivo;*  
-creazione db.sql - *script DDL utilzzati per la creazione della struttura del database (schema) e delle tabelle;*  
+creazione db.sql - *script DDL utilizzati per la creazione della struttura del database (schema) e delle tabelle;*  
 creazione indici.sql - *script utilizzati per la creazione degli indici;*  
 popolamento db.sql - *script DML contenente i dati fittizi (dummy data) per il popolamento iniziale e il testing;*  
 Ricerca biglietti disponibili.sql - *script della query di ricerca disponibilità posti (Front-Office);*  

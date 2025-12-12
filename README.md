@@ -1,4 +1,5 @@
-Il presente repository contiene tutti gli artefatti prodotti durante le fasi di analisi e sviluppo dell'elaborato. Oltre al file che contiene il database sono stati caricati anche gli script utili per riprodurlo e quelli contenenti le query rappresentative:
+Il presente repository contiene tutti gli artefatti prodotti durante le fasi di analisi e sviluppo dell'elaborato.  
+Oltre al file che contiene il database sono stati caricati anche gli script utili per riprodurlo e quelli contenenti le query rappresentative:
 
 <b>trenitalia_db.sql </b>- *file di dump completo del database, pronto per l'importazione diretta in MySQL;*  
 ERD.png - *rappresentazione grafica del Diagramma Entità-Relazione definitivo;*  
@@ -10,4 +11,4 @@ Storico prenotazioni cliente.sql - *script della query di visualizzazione storic
 Verifica validità biglietto.sql - *script della query di verifica validità biglietto (Check-in);*  
 Dettaglio prenotazione.sql - *script della query per il dettaglio viaggio multitratta;*  
 Dettaglio carta fedeltà.sql - *script della query per i dettagli carta fedeltà (CRM);*  
-Tasso di occupazione.sql - *script della query analitica per il calcolo del tasso di occupazione;*
+Tasso di occupazione.sql - *script della query analitica per il calcolo del tasso di occupazione.*
